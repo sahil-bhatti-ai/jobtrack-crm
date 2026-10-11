@@ -1,6 +1,6 @@
 # JobTrack CRM Backend
 
-Production-style FastAPI + PostgreSQL backend for a multi-tenant job/application CRM.
+FastAPI + PostgreSQL backend for a multi-tenant job/application CRM.
 
 This is not another `tasks` table wearing a fake moustache. It models a real job hunt: companies, job postings, applications, referrals, contacts, notes, interviews, reminders, audit logs, CSV exports, analytics, and background weekly summaries.
 
